@@ -6,8 +6,6 @@
 
 </div>
 
-###  como criar este projeto:
-https://github.com/wandersondefariasprogramador
 
 
 
